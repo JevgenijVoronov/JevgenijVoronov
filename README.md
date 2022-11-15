@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm JevgenijVoronov</h1>
+<h3 align="center">Frontend developer from Latvia</h3>
+
 - 👋 Hi, I’m @JevgenijVoronov
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
